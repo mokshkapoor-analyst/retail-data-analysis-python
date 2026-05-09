@@ -215,8 +215,7 @@ Aspiring Data Analyst
 
 📢 You can also check this project on my LinkedIn post:
 
-```html
 <a href="YOUR_LINKEDIN_POST_LINK" target="_blank">
 View Post 🚀
 </a>
-```
+
